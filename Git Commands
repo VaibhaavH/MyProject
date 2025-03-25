@@ -1,1 +1,15 @@
+git help
+(Take help from the Git help section for different commands and other errors  )
+
+git init
+(Create an empty Git repository or reinitialize an existing one)
+
+git add
+(Add file contents to the index)
+
+git mv
+( Move or rename a file, a directory, or a symlink)
+
+git restore
+(Restore working tree files)
 
